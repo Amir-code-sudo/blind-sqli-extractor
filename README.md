@@ -5,7 +5,7 @@
 
 # 🕵️ Blind SQLi (Time-Based) Extractor
 
-A smart Python tool to extract user passwords (e.g., administrator) via **Blind SQL Injection** using **time-based delay** and **binary search**. Designed for educational purposes, especially for **PortSwigger Web Security Academy** labs.
+A smart Python tool to extract user passwords (e.g., administrator) via **Blind SQL Injection** using **time-based delay** and **binary search**. Designed for educational purposes.
 
 ---
 
